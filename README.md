@@ -48,7 +48,7 @@ Ensure `chromedriver` is added to your **system PATH** or placed in the same fol
 2. Run the script:
 
 ```bash
-python amazon_scraper.py
+python main.py
 ```
 
 3. A GUI will pop up asking:
