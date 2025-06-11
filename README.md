@@ -1,5 +1,3 @@
-# Fetch-amazon-details
-
 # 🛍️ Amazon Product Scraper
 
 This Python script allows you to **scrape product details from Amazon.in** based on a search keyword and the number of pages you want to scrape. It collects:
